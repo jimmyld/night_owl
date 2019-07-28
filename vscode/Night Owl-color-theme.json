@@ -448,7 +448,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class"],
       "settings": {
-        "foreground": "#b7ff49"
+        "foreground": "#10dbff"
       }
     },
     {
